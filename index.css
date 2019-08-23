@@ -1,0 +1,35 @@
+body{
+    background-color: #dcdde1;
+}
+.container{
+    background-color: #fff;
+    /* border-radius: 10px; */
+    margin-top: 50px;
+    padding-top: 40px;
+    /* padding: 20px; */
+    width: 400px;
+    height: 500px !important;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: white !important;
+    opacity: 100% !important;
+}
+input[type=text] {
+    border: none;
+    border-bottom: 1px solid rgb(49, 173, 18);
+  }
+input[type=password] {
+    border: none;
+    border-bottom: 1px solid rgb(49, 173, 18);  
+}
+input[type=email] {
+    border: none;
+    border-bottom: 1px solid rgb(49, 173, 18);
+  }
+
+
+.form-heading{
+    text-align: center;
+    padding-bottom: 15px;
+    font-family: 'Ma Shan Zheng', cursive;
+}
