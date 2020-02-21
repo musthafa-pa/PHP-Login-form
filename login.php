@@ -5,7 +5,7 @@ error_reporting(E_ALL);
 
 $link = "http://ideasforblogging.com";
 
-$con=mysqli_connect("localhost","musthafa","User123$");
+$con=mysqli_connect("localhost","musthafa","password");
 
 mysqli_select_db($con,"loginsystem");
 
